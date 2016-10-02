@@ -4,3 +4,6 @@ c:\users\hp\documents\visual studio 2015\Projects\01_First Steps in Coding\01_He
 c:\users\hp\documents\visual studio 2015\Projects\01_First Steps in Coding\01_Hello CSharp\obj\Debug\01_Hello CSharp.csprojResolveAssemblyReference.cache
 c:\users\hp\documents\visual studio 2015\Projects\01_First Steps in Coding\01_Hello CSharp\obj\Debug\01_Hello CSharp.exe
 c:\users\hp\documents\visual studio 2015\Projects\01_First Steps in Coding\01_Hello CSharp\obj\Debug\01_Hello CSharp.pdb
+C:\Users\HP\Documents\Programming Fundamentals\Repos\02_Exercise-repo\Exercise-repo\01_Hello CSharp\bin\Debug\01_Hello CSharp.exe.config
+C:\Users\HP\Documents\Programming Fundamentals\Repos\02_Exercise-repo\Exercise-repo\01_Hello CSharp\obj\Debug\01_Hello CSharp.exe
+C:\Users\HP\Documents\Programming Fundamentals\Repos\02_Exercise-repo\Exercise-repo\01_Hello CSharp\obj\Debug\01_Hello CSharp.pdb
