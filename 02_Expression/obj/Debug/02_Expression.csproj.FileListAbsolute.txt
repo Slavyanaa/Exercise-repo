@@ -1,5 +1,0 @@
-c:\users\hp\documents\visual studio 2015\Projects\01_First Steps in Coding\02_Expression\bin\Debug\02_Expression.exe.config
-c:\users\hp\documents\visual studio 2015\Projects\01_First Steps in Coding\02_Expression\bin\Debug\02_Expression.exe
-c:\users\hp\documents\visual studio 2015\Projects\01_First Steps in Coding\02_Expression\bin\Debug\02_Expression.pdb
-c:\users\hp\documents\visual studio 2015\Projects\01_First Steps in Coding\02_Expression\obj\Debug\02_Expression.exe
-c:\users\hp\documents\visual studio 2015\Projects\01_First Steps in Coding\02_Expression\obj\Debug\02_Expression.pdb
