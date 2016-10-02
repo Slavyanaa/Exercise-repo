@@ -10,7 +10,7 @@ namespace _05__Nums_1_to_20
     {
         static void Main(string[] args)
         {
-            for (int i = 1; i <= 20; i++)
+            for (int i = 1; i <= 21; i++)
             {
                 Console.WriteLine(i);
             }
